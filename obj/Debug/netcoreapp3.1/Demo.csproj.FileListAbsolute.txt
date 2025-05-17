@@ -1,0 +1,198 @@
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\Demo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Demo\obj\Debug\netcoreapp3.1\Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\Demo\obj\Debug\netcoreapp3.1\Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\Demo\obj\Debug\netcoreapp3.1\staticwebassets\Demo.StaticWebAssets.Manifest.cache
+C:\Users\Admin\source\repos\Demo\obj\Debug\netcoreapp3.1\Demo.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CopyComplete
+C:\Users\Admin\source\repos\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\Admin\source\repos\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\Admin\source\repos\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache
+E:\JP\Dotnet-Angular-Final\Demo - Copy\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+E:\JP\Dotnet-Angular-Final\Demo - Copy\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+E:\JP\Dotnet-Angular-Final\Demo - Copy\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+E:\JP\Dotnet-Angular-Final\Demo - Copy\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+E:\JP\Dotnet-Angular-Final\Demo - Copy\obj\Debug\netcoreapp3.1\Demo.MvcApplicationPartsAssemblyInfo.cs
+E:\JP\Dotnet-Angular-Final\Demo - Copy\obj\Debug\netcoreapp3.1\Demo.MvcApplicationPartsAssemblyInfo.cache
+E:\JP\Dotnet-Angular-Final\Demo - Copy\obj\Debug\netcoreapp3.1\Demo.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\obj\Debug\netcoreapp3.1\Demo.pdb
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\appsettings.json
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Demo.exe
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Demo.deps.json
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Demo.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Demo.pdb
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\JP\Dotnet-Angular-Final\Demo - Copy\obj\Debug\netcoreapp3.1\Demo.RazorTargetAssemblyInfo.cache
+E:\JP\Dotnet-Angular-Final\Demo - Copy\obj\Debug\netcoreapp3.1\Demo.csproj.CopyComplete
+E:\JP\Dotnet-Angular-Final\Demo - Copy\obj\Debug\netcoreapp3.1\staticwebassets\Demo.StaticWebAssets.Manifest.cache
+E:\JP\Dotnet-Angular-Final\Demo - Copy\obj\Debug\netcoreapp3.1\staticwebassets\Demo.StaticWebAssets.xml
+E:\JP\Dotnet-Angular-Final\Demo - Copy\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\appsettings.json
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Demo.exe
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Demo.deps.json
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Demo.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Demo.pdb
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\JP\New folder\Dotnet\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+E:\JP\New folder\Dotnet\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+E:\JP\New folder\Dotnet\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+E:\JP\New folder\Dotnet\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+E:\JP\New folder\Dotnet\obj\Debug\netcoreapp3.1\Demo.MvcApplicationPartsAssemblyInfo.cs
+E:\JP\New folder\Dotnet\obj\Debug\netcoreapp3.1\Demo.MvcApplicationPartsAssemblyInfo.cache
+E:\JP\New folder\Dotnet\obj\Debug\netcoreapp3.1\Demo.RazorTargetAssemblyInfo.cache
+E:\JP\New folder\Dotnet\obj\Debug\netcoreapp3.1\Demo.csproj.CopyComplete
+E:\JP\New folder\Dotnet\obj\Debug\netcoreapp3.1\staticwebassets\Demo.StaticWebAssets.Manifest.cache
+E:\JP\New folder\Dotnet\obj\Debug\netcoreapp3.1\staticwebassets\Demo.StaticWebAssets.xml
+E:\JP\New folder\Dotnet\obj\Debug\netcoreapp3.1\Demo.dll
+E:\JP\New folder\Dotnet\obj\Debug\netcoreapp3.1\Demo.pdb
+E:\JP\New folder\Dotnet\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\JP\New folder\Dotnet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
